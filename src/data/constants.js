@@ -7,7 +7,7 @@ export const Bio = {
     "Programmer",
   ],
   description:
-    "I am a motivated and versatile individual, eager to embrace new challenges and opportunities. My passion for learning drives my dedication to delivering high-quality results consistently. With a positive attitude and a growth mindset, I am committed to making meaningful contributions and achieving exceptional outcomes in all my endeavors.",
+    "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
   github: "https://github.com/Aanya-Saroha",
   resume:
     "https://drive.google.com/file/d/1Srzph6GadVcXyfz6UyhagRpJKvSRrRTQ/view?usp=sharing",
@@ -331,7 +331,7 @@ export const projects = [
       "Scikit-learn",
       "Yahoo Finance API",
     ],
-    category: "web app",
+    category: "machine learning",
     github: "https://github.com/Aanya-Saroha/Stock-Price-Prediction",
   },
   {
@@ -363,7 +363,7 @@ export const projects = [
     image:
       "https://th.bing.com/th/id/OIP.TsHCVVXuaMwuE03-kOWywQAAAA?w=362&h=400&rs=1&pid=ImgDetMain",
     tags: ["Python", "OpenCV", "haarcascade-frontalface"],
-    category: "web app",
+    category: "machine learning",
     github: "https://github.com/Aanya-Saroha/Face-Detection-using-python",
     member: [
       {
@@ -388,7 +388,7 @@ export const projects = [
       "Remix-Ethereum IDE",
       "Smart Contracts",
     ],
-    category: "web app",
+    category: "solidity",
     github: "https://github.com/Aanya-Saroha/Voting-system-using-Solidity",
    
   },
@@ -421,7 +421,7 @@ export const projects = [
     image:
       "https://thumbs.dreamstime.com/z/businesswoman-checklist-successful-woman-checking-task-success-completed-business-tasks-vector-illustration-187883251.jpg",
     tags: ["JavaScript", "HTML", "CSS"],
-    category: "android app",
+    category: "web app",
     github: "https://github.com/Aanya-Saroha/To-Do-List",
   },
   {
@@ -433,7 +433,7 @@ export const projects = [
     image:
       "https://s3-alpha.figma.com/hub/file/936981378/40fd9ce4-a7a2-468d-b87c-1dabb77298e2-cover.png",
     tags: ["HTML", "JavaScript", "CSS"],
-    category: "Web Develpoment",
+    category: "web app",
     github: "https://github.com/Aanya-Saroha/Netflix-clone-by-html-and-css",
   },
   {
@@ -445,7 +445,7 @@ export const projects = [
     image:
       "https://miro.medium.com/max/1280/1*cwukaTJPlp5GFd8twISZqQ.jpeg",
     tags: ["Python", "HTML", "Open CV", "Mediapipe "],
-    category: "web app",
+    category: "machine learning",
     github: "https://github.com/Aanya-Saroha/Sign-language-detector",
     
   },
@@ -471,7 +471,7 @@ export const projects = [
     image:
       "https://raw.githubusercontent.com/Masterx-AI/Project_Email_Spam_Detection_/main/ee.png",
     tags: ["Python", "Jupyter"],
-    category: "web app",
+    category: "machine learning",
     github: "https://github.com/Aanya-Saroha/Email-Spam-Detection",
   },
   {
@@ -483,7 +483,7 @@ export const projects = [
     image:
       "https://th.bing.com/th/id/OIP.wOQL2hj_T8TXjDcY4WhuKwAAAA?rs=1&pid=ImgDetMain",
     tags: ["NumPy","Pandas","scikit-learn","Matplotlib","Seaborn"],
-    category: "android app",
+    category: "machine learning",
     github: "https://github.com/Aanya-Saroha/Iris-Flower-Detection",
     
   },
