@@ -121,8 +121,8 @@ const Projects = () => {
           </ToggleButton>
           <Divider />
           <ToggleButton
-            active={toggle === "android app"}
-            onClick={() => setToggle("android app")}
+            active={toggle === "solidity"}
+            onClick={() => setToggle("solidity")}
           >
            Solidity
           </ToggleButton>
