@@ -10,7 +10,7 @@ export const Bio = {
     "I am a motivated and versatile individual, eager to embrace new challenges and opportunities. My passion for learning drives my dedication to delivering high-quality results consistently. With a positive attitude and a growth mindset, I am committed to making meaningful contributions and achieving exceptional outcomes in all my endeavors.",
   github: "https://github.com/Aanya-Saroha",
   resume:
-    "https://drive.google.com/file/d/1ZY8z0sB1qKMbzRTxldHvwqLLUK2vsgZj/view?usp=sharing",
+    "https://drive.google.com/file/d/1Srzph6GadVcXyfz6UyhagRpJKvSRrRTQ/view?usp=sharing",
   linkedin: "https://www.linkedin.com/in/aanya-saroha-807147221/",
   twitter: "https://x.com/AanyaSaroha",
   insta: "https://www.instagram.com/aanya_sarohaa/",
