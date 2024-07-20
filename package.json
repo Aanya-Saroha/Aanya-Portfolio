@@ -30,7 +30,7 @@
     "three": "^0.161.0",
     "typewriter-effect": "^2.21.0",
     "web-vitals": "^2.1.4",
-    "@babel/plugin-proposal-private-property-in-object": "^4.12.0"
+    "@babel/plugin-proposal-private-property-in-object": "4.12.0"
   },
   "scripts": {
     "start": "react-scripts start",
