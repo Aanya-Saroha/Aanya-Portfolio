@@ -118,7 +118,7 @@ const Contact = () => {
     message: "",
   });
 
-  const [loading, setLoading] = useState(false);
+  const [setLoading] = useState(false);
 
   const handleChange = (e) => {
     const { target } = e;
